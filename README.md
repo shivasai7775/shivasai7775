@@ -99,7 +99,7 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivasai7775&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivasai7775&theme=redical&hide_border=true&area=true" alt="Contribution Graph" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivasai7775&theme=radical&hide_border=true&area=true" alt="Contribution Graph" height="170" />
 </div>
 
 ---
